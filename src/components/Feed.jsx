@@ -27,10 +27,10 @@ const Feed = () => {
                 className="copyright" variant="body2" 
                 sx={{ color:"#fff"}}
                 >
-                    Copyright &copy; <a href="https://accodes21.github.io/Profile/" target="blank" 
+                    Copyright &copy; <a href="https://github.com/pratikk0809" target="blank" 
                     style={{color:"#fff"}}
                     >
-                        Aarya Chopkar
+                        Pratik Birla
                     </a>
                 </Typography>
             </Box>
